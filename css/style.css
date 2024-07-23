@@ -1,0 +1,14 @@
+.thefirst{
+   color: gray;
+}
+.team{
+   text-align: center; 
+}
+
+.first{
+    float:left;
+    width: 33%;
+}
+.clear{
+    clear: left;
+}
